@@ -256,7 +256,7 @@
     // Your previous function integrated here
 function searchPostcode(postcode, pollutionUnits) {
     const postcodeJsonUrl = 'https://joranbackx.nl/lab/lutra/postcode.json';
-    const gemeenteJsonUrl = 'https://joranbackx.nl/lab/lutra/gemeente.json';
+    const gemeenteJsonUrl = 'https://raw.githubusercontent.com/BORNAKACXJ/LUTRA/refs/heads/main/gemeente.json';
     const csvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-9btR_TTTmlESMcw7mg3EZrUc1thUlf6uDCRYns313GY9HB4HbdW4tvKQLxIteJDGssZ2SM9kx_rC/pub?gid=0&single=true&output=csv';
 
     // Fetch the gemcode and waterschap details (as explained before)
@@ -280,7 +280,7 @@ function searchPostcode(postcode, pollutionUnits) {
 }
 
 function searchWaterschapCode(gemcode, pollutionUnits) {
-    const gemeenteJsonUrl = 'https://joranbackx.nl/lab/lutra/gemeente.json';
+    const gemeenteJsonUrl = 'https://raw.githubusercontent.com/BORNAKACXJ/LUTRA/refs/heads/main/gemeente.json;
 
     fetch(gemeenteJsonUrl, {  })
         .then(response => response.json())
