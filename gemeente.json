@@ -1,0 +1,2048 @@
+[
+    {
+        "Gemcode": 14,
+        "Gemeentenaam": "Groningen",
+        "Waterschap": "Noorderzijlvest",
+        "WaterschapCode": 11
+    },
+    {
+        "Gemcode": 34,
+        "Gemeentenaam": "Almere",
+        "Waterschap": "Zuiderzeeland",
+        "WaterschapCode": 19
+    },
+    {
+        "Gemcode": 37,
+        "Gemeentenaam": "Stadskanaal",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 47,
+        "Gemeentenaam": "Veendam",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 50,
+        "Gemeentenaam": "Zeewolde",
+        "Waterschap": "Zuiderzeeland",
+        "WaterschapCode": 19
+    },
+    {
+        "Gemcode": 59,
+        "Gemeentenaam": "Achtkarspelen",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 60,
+        "Gemeentenaam": "Ameland",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 72,
+        "Gemeentenaam": "Harlingen",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 74,
+        "Gemeentenaam": "Heerenveen",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 80,
+        "Gemeentenaam": "Leeuwarden",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 85,
+        "Gemeentenaam": "Ooststellingwerf",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 86,
+        "Gemeentenaam": "Opsterland",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 88,
+        "Gemeentenaam": "Schiermonnikoog",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 90,
+        "Gemeentenaam": "Smallingerland",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 93,
+        "Gemeentenaam": "Terschelling",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 96,
+        "Gemeentenaam": "Vlieland",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 98,
+        "Gemeentenaam": "Weststellingwerf",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 106,
+        "Gemeentenaam": "Assen",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 109,
+        "Gemeentenaam": "Coevorden",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 114,
+        "Gemeentenaam": "Emmen",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 118,
+        "Gemeentenaam": "Hoogeveen",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 119,
+        "Gemeentenaam": "Meppel",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 141,
+        "Gemeentenaam": "Almelo",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 147,
+        "Gemeentenaam": "Borne",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 148,
+        "Gemeentenaam": "Dalfsen",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 150,
+        "Gemeentenaam": "Deventer",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 153,
+        "Gemeentenaam": "Enschede",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 158,
+        "Gemeentenaam": "Haaksbergen",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 160,
+        "Gemeentenaam": "Hardenberg",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 163,
+        "Gemeentenaam": "Hellendoorn",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 164,
+        "Gemeentenaam": "Hengelo",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 166,
+        "Gemeentenaam": "Kampen",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 168,
+        "Gemeentenaam": "Losser",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 171,
+        "Gemeentenaam": "Noordoostpolder",
+        "Waterschap": "Zuiderzeeland",
+        "WaterschapCode": 19
+    },
+    {
+        "Gemcode": 173,
+        "Gemeentenaam": "Oldenzaal",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 175,
+        "Gemeentenaam": "Ommen",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 177,
+        "Gemeentenaam": "Raalte",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 180,
+        "Gemeentenaam": "Staphorst",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 183,
+        "Gemeentenaam": "Tubbergen",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 184,
+        "Gemeentenaam": "Urk",
+        "Waterschap": "Zuiderzeeland",
+        "WaterschapCode": 19
+    },
+    {
+        "Gemcode": 189,
+        "Gemeentenaam": "Wierden",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 193,
+        "Gemeentenaam": "Zwolle",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 197,
+        "Gemeentenaam": "Aalten",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 200,
+        "Gemeentenaam": "Apeldoorn",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 202,
+        "Gemeentenaam": "Arnhem",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 203,
+        "Gemeentenaam": "Barneveld",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 209,
+        "Gemeentenaam": "Beuningen",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 213,
+        "Gemeentenaam": "Brummen",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 214,
+        "Gemeentenaam": "Buren",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 216,
+        "Gemeentenaam": "Culemborg",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 221,
+        "Gemeentenaam": "Doesburg",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 222,
+        "Gemeentenaam": "Doetinchem",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 225,
+        "Gemeentenaam": "Druten",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 226,
+        "Gemeentenaam": "Duiven",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 228,
+        "Gemeentenaam": "Ede",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 230,
+        "Gemeentenaam": "Elburg",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 232,
+        "Gemeentenaam": "Epe",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 233,
+        "Gemeentenaam": "Ermelo",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 243,
+        "Gemeentenaam": "Harderwijk",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 244,
+        "Gemeentenaam": "Hattem",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 246,
+        "Gemeentenaam": "Heerde",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 252,
+        "Gemeentenaam": "Heumen",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 262,
+        "Gemeentenaam": "Lochem",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 263,
+        "Gemeentenaam": "Maasdriel",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 267,
+        "Gemeentenaam": "Nijkerk",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 268,
+        "Gemeentenaam": "Nijmegen",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 269,
+        "Gemeentenaam": "Oldebroek",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 273,
+        "Gemeentenaam": "Putten",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 274,
+        "Gemeentenaam": "Renkum",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 275,
+        "Gemeentenaam": "Rheden",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 277,
+        "Gemeentenaam": "Rozendaal",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 279,
+        "Gemeentenaam": "Scherpenzeel",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 281,
+        "Gemeentenaam": "Tiel",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 285,
+        "Gemeentenaam": "Voorst",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 289,
+        "Gemeentenaam": "Wageningen",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 293,
+        "Gemeentenaam": "Westervoort",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 294,
+        "Gemeentenaam": "Winterswijk",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 296,
+        "Gemeentenaam": "Wijchen",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 297,
+        "Gemeentenaam": "Zaltbommel",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 299,
+        "Gemeentenaam": "Zevenaar",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 301,
+        "Gemeentenaam": "Zutphen",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 302,
+        "Gemeentenaam": "Nunspeet",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 303,
+        "Gemeentenaam": "Dronten",
+        "Waterschap": "Zuiderzeeland",
+        "WaterschapCode": 19
+    },
+    {
+        "Gemcode": 307,
+        "Gemeentenaam": "Amersfoort",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 308,
+        "Gemeentenaam": "Baarn",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 310,
+        "Gemeentenaam": "De Bilt",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 312,
+        "Gemeentenaam": "Bunnik",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 313,
+        "Gemeentenaam": "Bunschoten",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 317,
+        "Gemeentenaam": "Eemnes",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 321,
+        "Gemeentenaam": "Houten",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 327,
+        "Gemeentenaam": "Leusden",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 331,
+        "Gemeentenaam": "Lopik",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 335,
+        "Gemeentenaam": "Montfoort",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 339,
+        "Gemeentenaam": "Renswoude",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 340,
+        "Gemeentenaam": "Rhenen",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 342,
+        "Gemeentenaam": "Soest",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 344,
+        "Gemeentenaam": "Utrecht",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 345,
+        "Gemeentenaam": "Veenendaal",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 351,
+        "Gemeentenaam": "Woudenberg",
+        "Waterschap": "Vallei en Veluwe",
+        "WaterschapCode": 17
+    },
+    {
+        "Gemcode": 352,
+        "Gemeentenaam": "Wijk bij Duurstede",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 353,
+        "Gemeentenaam": "IJsselstein",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 355,
+        "Gemeentenaam": "Zeist",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 356,
+        "Gemeentenaam": "Nieuwegein",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 358,
+        "Gemeentenaam": "Aalsmeer",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 361,
+        "Gemeentenaam": "Alkmaar",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 362,
+        "Gemeentenaam": "Amstelveen",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 363,
+        "Gemeentenaam": "Amsterdam",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 373,
+        "Gemeentenaam": "Bergen (NH.)",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 375,
+        "Gemeentenaam": "Beverwijk",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 376,
+        "Gemeentenaam": "Blaricum",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 377,
+        "Gemeentenaam": "Bloemendaal",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 383,
+        "Gemeentenaam": "Castricum",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 384,
+        "Gemeentenaam": "Diemen",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 385,
+        "Gemeentenaam": "Edam-Volendam",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 388,
+        "Gemeentenaam": "Enkhuizen",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 392,
+        "Gemeentenaam": "Haarlem",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 394,
+        "Gemeentenaam": "Haarlemmermeer",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 396,
+        "Gemeentenaam": "Heemskerk",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 397,
+        "Gemeentenaam": "Heemstede",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 399,
+        "Gemeentenaam": "Heiloo",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 400,
+        "Gemeentenaam": "Den Helder",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 402,
+        "Gemeentenaam": "Hilversum",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 405,
+        "Gemeentenaam": "Hoorn",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 406,
+        "Gemeentenaam": "Huizen",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 415,
+        "Gemeentenaam": "Landsmeer",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 417,
+        "Gemeentenaam": "Laren",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 420,
+        "Gemeentenaam": "Medemblik",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 431,
+        "Gemeentenaam": "Oostzaan",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 432,
+        "Gemeentenaam": "Opmeer",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 437,
+        "Gemeentenaam": "Ouder-Amstel",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 439,
+        "Gemeentenaam": "Purmerend",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 441,
+        "Gemeentenaam": "Schagen",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 448,
+        "Gemeentenaam": "Texel",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 450,
+        "Gemeentenaam": "Uitgeest",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 451,
+        "Gemeentenaam": "Uithoorn",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 453,
+        "Gemeentenaam": "Velsen",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 473,
+        "Gemeentenaam": "Zandvoort",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 479,
+        "Gemeentenaam": "Zaanstad",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 482,
+        "Gemeentenaam": "Alblasserdam",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 484,
+        "Gemeentenaam": "Alphen aan den Rijn",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 489,
+        "Gemeentenaam": "Barendrecht",
+        "Waterschap": "Schieland en de Krimpenerwaard",
+        "WaterschapCode": 15
+    },
+    {
+        "Gemcode": 498,
+        "Gemeentenaam": "Drechterland",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 502,
+        "Gemeentenaam": "Capelle aan den IJssel",
+        "Waterschap": "Schieland en de Krimpenerwaard",
+        "WaterschapCode": 15
+    },
+    {
+        "Gemcode": 503,
+        "Gemeentenaam": "Delft",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 505,
+        "Gemeentenaam": "Dordrecht",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 512,
+        "Gemeentenaam": "Gorinchem",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 513,
+        "Gemeentenaam": "Gouda",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 518,
+        "Gemeentenaam": "'s-Gravenhage",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 523,
+        "Gemeentenaam": "Hardinxveld-Giessendam",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 531,
+        "Gemeentenaam": "Hendrik-Ido-Ambacht",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 532,
+        "Gemeentenaam": "Stede Broec",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 534,
+        "Gemeentenaam": "Hillegom",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 537,
+        "Gemeentenaam": "Katwijk",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 542,
+        "Gemeentenaam": "Krimpen aan den IJssel",
+        "Waterschap": "Schieland en de Krimpenerwaard",
+        "WaterschapCode": 15
+    },
+    {
+        "Gemcode": 546,
+        "Gemeentenaam": "Leiden",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 547,
+        "Gemeentenaam": "Leiderdorp",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 553,
+        "Gemeentenaam": "Lisse",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 556,
+        "Gemeentenaam": "Maassluis",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 569,
+        "Gemeentenaam": "Nieuwkoop",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 575,
+        "Gemeentenaam": "Noordwijk",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 579,
+        "Gemeentenaam": "Oegstgeest",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 589,
+        "Gemeentenaam": "Oudewater",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 590,
+        "Gemeentenaam": "Papendrecht",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 597,
+        "Gemeentenaam": "Ridderkerk",
+        "Waterschap": "Schieland en de Krimpenerwaard",
+        "WaterschapCode": 15
+    },
+    {
+        "Gemcode": 599,
+        "Gemeentenaam": "Rotterdam",
+        "Waterschap": "Schieland en de Krimpenerwaard",
+        "WaterschapCode": 15
+    },
+    {
+        "Gemcode": 603,
+        "Gemeentenaam": "Rijswijk",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 606,
+        "Gemeentenaam": "Schiedam",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 610,
+        "Gemeentenaam": "Sliedrecht",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 613,
+        "Gemeentenaam": "Albrandswaard",
+        "Waterschap": "Schieland en de Krimpenerwaard",
+        "WaterschapCode": 15
+    },
+    {
+        "Gemcode": 622,
+        "Gemeentenaam": "Vlaardingen",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 626,
+        "Gemeentenaam": "Voorschoten",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 627,
+        "Gemeentenaam": "Waddinxveen",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 629,
+        "Gemeentenaam": "Wassenaar",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 632,
+        "Gemeentenaam": "Woerden",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 637,
+        "Gemeentenaam": "Zoetermeer",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 638,
+        "Gemeentenaam": "Zoeterwoude",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 642,
+        "Gemeentenaam": "Zwijndrecht",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 654,
+        "Gemeentenaam": "Borsele",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 664,
+        "Gemeentenaam": "Goes",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 668,
+        "Gemeentenaam": "West Maas en Waal",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 677,
+        "Gemeentenaam": "Hulst",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 678,
+        "Gemeentenaam": "Kapelle",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 687,
+        "Gemeentenaam": "Middelburg",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 703,
+        "Gemeentenaam": "Reimerswaal",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 715,
+        "Gemeentenaam": "Terneuzen",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 716,
+        "Gemeentenaam": "Tholen",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 717,
+        "Gemeentenaam": "Veere",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 718,
+        "Gemeentenaam": "Vlissingen",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 736,
+        "Gemeentenaam": "De Ronde Venen",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 737,
+        "Gemeentenaam": "Tytsjerksteradiel",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 743,
+        "Gemeentenaam": "Asten",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 744,
+        "Gemeentenaam": "Baarle-Nassau",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 748,
+        "Gemeentenaam": "Bergen op Zoom",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 753,
+        "Gemeentenaam": "Best",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 755,
+        "Gemeentenaam": "Boekel",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 757,
+        "Gemeentenaam": "Boxtel",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 758,
+        "Gemeentenaam": "Breda",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 762,
+        "Gemeentenaam": "Deurne",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 765,
+        "Gemeentenaam": "Pekela",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 766,
+        "Gemeentenaam": "Dongen",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 770,
+        "Gemeentenaam": "Eersel",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 772,
+        "Gemeentenaam": "Eindhoven",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 777,
+        "Gemeentenaam": "Etten-Leur",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 779,
+        "Gemeentenaam": "Geertruidenberg",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 784,
+        "Gemeentenaam": "Gilze en Rijen",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 785,
+        "Gemeentenaam": "Goirle",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 794,
+        "Gemeentenaam": "Helmond",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 796,
+        "Gemeentenaam": "'s-Hertogenbosch",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 797,
+        "Gemeentenaam": "Heusden",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 798,
+        "Gemeentenaam": "Hilvarenbeek",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 809,
+        "Gemeentenaam": "Loon op Zand",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 823,
+        "Gemeentenaam": "Oirschot",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 824,
+        "Gemeentenaam": "Oisterwijk",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 826,
+        "Gemeentenaam": "Oosterhout",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 828,
+        "Gemeentenaam": "Oss",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 840,
+        "Gemeentenaam": "Rucphen",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 845,
+        "Gemeentenaam": "Sint-Michielsgestel",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 847,
+        "Gemeentenaam": "Someren",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 848,
+        "Gemeentenaam": "Son en Breugel",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 851,
+        "Gemeentenaam": "Steenbergen",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 852,
+        "Gemeentenaam": "Waterland",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 855,
+        "Gemeentenaam": "Tilburg",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 858,
+        "Gemeentenaam": "Valkenswaard",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 861,
+        "Gemeentenaam": "Veldhoven",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 865,
+        "Gemeentenaam": "Vught",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 866,
+        "Gemeentenaam": "Waalre",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 867,
+        "Gemeentenaam": "Waalwijk",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 873,
+        "Gemeentenaam": "Woensdrecht",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 879,
+        "Gemeentenaam": "Zundert",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 880,
+        "Gemeentenaam": "Wormerland",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 882,
+        "Gemeentenaam": "Landgraaf",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 888,
+        "Gemeentenaam": "Beek",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 889,
+        "Gemeentenaam": "Beesel",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 893,
+        "Gemeentenaam": "Bergen (L.)",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 899,
+        "Gemeentenaam": "Brunssum",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 907,
+        "Gemeentenaam": "Gennep",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 917,
+        "Gemeentenaam": "Heerlen",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 928,
+        "Gemeentenaam": "Kerkrade",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 935,
+        "Gemeentenaam": "Maastricht",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 938,
+        "Gemeentenaam": "Meerssen",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 944,
+        "Gemeentenaam": "Mook en Middelaar",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 946,
+        "Gemeentenaam": "Nederweert",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 957,
+        "Gemeentenaam": "Roermond",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 965,
+        "Gemeentenaam": "Simpelveld",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 971,
+        "Gemeentenaam": "Stein",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 981,
+        "Gemeentenaam": "Vaals",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 983,
+        "Gemeentenaam": "Venlo",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 984,
+        "Gemeentenaam": "Venray",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 986,
+        "Gemeentenaam": "Voerendaal",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 988,
+        "Gemeentenaam": "Weert",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 994,
+        "Gemeentenaam": "Valkenburg aan de Geul",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 995,
+        "Gemeentenaam": "Lelystad",
+        "Waterschap": "Zuiderzeeland",
+        "WaterschapCode": 19
+    },
+    {
+        "Gemcode": 1507,
+        "Gemeentenaam": "Horst aan de Maas",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 1509,
+        "Gemeentenaam": "Oude IJsselstreek",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 1525,
+        "Gemeentenaam": "Teylingen",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 1581,
+        "Gemeentenaam": "Utrechtse Heuvelrug",
+        "Waterschap": "Stichtse Rijnlanden",
+        "WaterschapCode": 16
+    },
+    {
+        "Gemcode": 1586,
+        "Gemeentenaam": "Oost Gelre",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 1598,
+        "Gemeentenaam": "Koggenland",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 1621,
+        "Gemeentenaam": "Lansingerland",
+        "Waterschap": "Schieland en de Krimpenerwaard",
+        "WaterschapCode": 15
+    },
+    {
+        "Gemcode": 1640,
+        "Gemeentenaam": "Leudal",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 1641,
+        "Gemeentenaam": "Maasgouw",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 1652,
+        "Gemeentenaam": "Gemert-Bakel",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 1655,
+        "Gemeentenaam": "Halderberge",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 1658,
+        "Gemeentenaam": "Heeze-Leende",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 1659,
+        "Gemeentenaam": "Laarbeek",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 1667,
+        "Gemeentenaam": "Reusel-De Mierden",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 1669,
+        "Gemeentenaam": "Roerdalen",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 1674,
+        "Gemeentenaam": "Roosendaal",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 1676,
+        "Gemeentenaam": "Schouwen-Duiveland",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 1680,
+        "Gemeentenaam": "Aa en Hunze",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 1681,
+        "Gemeentenaam": "Borger-Odoorn",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 1690,
+        "Gemeentenaam": "De Wolden",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 1695,
+        "Gemeentenaam": "Noord-Beveland",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 1696,
+        "Gemeentenaam": "Wijdemeren",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 1699,
+        "Gemeentenaam": "Noordenveld",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 1700,
+        "Gemeentenaam": "Twenterand",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 1701,
+        "Gemeentenaam": "Westerveld",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 1705,
+        "Gemeentenaam": "Lingewaard",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 1706,
+        "Gemeentenaam": "Cranendonck",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 1708,
+        "Gemeentenaam": "Steenwijkerland",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 1709,
+        "Gemeentenaam": "Moerdijk",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 1711,
+        "Gemeentenaam": "Echt-Susteren",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 1714,
+        "Gemeentenaam": "Sluis",
+        "Waterschap": "Scheldestromen",
+        "WaterschapCode": 14
+    },
+    {
+        "Gemcode": 1719,
+        "Gemeentenaam": "Drimmelen",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 1721,
+        "Gemeentenaam": "Bernheze",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 1723,
+        "Gemeentenaam": "Alphen-Chaam",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 1724,
+        "Gemeentenaam": "Bergeijk",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 1728,
+        "Gemeentenaam": "Bladel",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 1729,
+        "Gemeentenaam": "Gulpen-Wittem",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 1730,
+        "Gemeentenaam": "Tynaarlo",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 1731,
+        "Gemeentenaam": "Midden-Drenthe",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 1734,
+        "Gemeentenaam": "Overbetuwe",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 1735,
+        "Gemeentenaam": "Hof van Twente",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 1740,
+        "Gemeentenaam": "Neder-Betuwe",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 1742,
+        "Gemeentenaam": "Rijssen-Holten",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 1771,
+        "Gemeentenaam": "Geldrop-Mierlo",
+        "Waterschap": "De Dommel",
+        "WaterschapCode": 3
+    },
+    {
+        "Gemcode": 1773,
+        "Gemeentenaam": "Olst-Wijhe",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 1774,
+        "Gemeentenaam": "Dinkelland",
+        "Waterschap": "Vechtstromen",
+        "WaterschapCode": 18
+    },
+    {
+        "Gemcode": 1783,
+        "Gemeentenaam": "Westland",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 1842,
+        "Gemeentenaam": "Midden-Delfland",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 1859,
+        "Gemeentenaam": "Berkelland",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 1876,
+        "Gemeentenaam": "Bronckhorst",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 1883,
+        "Gemeentenaam": "Sittard-Geleen",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 1884,
+        "Gemeentenaam": "Kaag en Braassem",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 1891,
+        "Gemeentenaam": "Dantumadiel",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 1892,
+        "Gemeentenaam": "Zuidplas",
+        "Waterschap": "Schieland en de Krimpenerwaard",
+        "WaterschapCode": 15
+    },
+    {
+        "Gemcode": 1894,
+        "Gemeentenaam": "Peel en Maas",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 1895,
+        "Gemeentenaam": "Oldambt",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 1896,
+        "Gemeentenaam": "Zwartewaterland",
+        "Waterschap": "Drents Overijsselse Delta",
+        "WaterschapCode": 5
+    },
+    {
+        "Gemcode": 1900,
+        "Gemeentenaam": "S\u00fadwest-Frysl\u00e2n",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 1901,
+        "Gemeentenaam": "Bodegraven-Reeuwijk",
+        "Waterschap": "Hoogheemraadschap van Rijnland",
+        "WaterschapCode": 8
+    },
+    {
+        "Gemcode": 1903,
+        "Gemeentenaam": "Eijsden-Margraten",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 1904,
+        "Gemeentenaam": "Stichtse Vecht",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 1911,
+        "Gemeentenaam": "Hollands Kroon",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 1916,
+        "Gemeentenaam": "Leidschendam-Voorburg",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 1924,
+        "Gemeentenaam": "Goeree-Overflakkee",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 1926,
+        "Gemeentenaam": "Pijnacker-Nootdorp",
+        "Waterschap": "Delfland",
+        "WaterschapCode": 4
+    },
+    {
+        "Gemcode": 1930,
+        "Gemeentenaam": "Nissewaard",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 1931,
+        "Gemeentenaam": "Krimpenerwaard",
+        "Waterschap": "Schieland en de Krimpenerwaard",
+        "WaterschapCode": 15
+    },
+    {
+        "Gemcode": 1940,
+        "Gemeentenaam": "De Fryske Marren",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 1942,
+        "Gemeentenaam": "Gooise Meren",
+        "Waterschap": "Amstel Gooi en Vecht",
+        "WaterschapCode": 1
+    },
+    {
+        "Gemcode": 1945,
+        "Gemeentenaam": "Berg en Dal",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 1948,
+        "Gemeentenaam": "Meierijstad",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 1949,
+        "Gemeentenaam": "Waadhoeke",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 1950,
+        "Gemeentenaam": "Westerwolde",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 1952,
+        "Gemeentenaam": "Midden-Groningen",
+        "Waterschap": "Hunze en Aa's",
+        "WaterschapCode": 9
+    },
+    {
+        "Gemcode": 1954,
+        "Gemeentenaam": "Beekdaelen",
+        "Waterschap": "Limburg",
+        "WaterschapCode": 10
+    },
+    {
+        "Gemcode": 1955,
+        "Gemeentenaam": "Montferland",
+        "Waterschap": "Rijn en IJssel",
+        "WaterschapCode": 12
+    },
+    {
+        "Gemcode": 1959,
+        "Gemeentenaam": "Altena",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 1960,
+        "Gemeentenaam": "West Betuwe",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 1961,
+        "Gemeentenaam": "Vijfheerenlanden",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 1963,
+        "Gemeentenaam": "Hoeksche Waard",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    },
+    {
+        "Gemcode": 1966,
+        "Gemeentenaam": "Het Hogeland",
+        "Waterschap": "Noorderzijlvest",
+        "WaterschapCode": 11
+    },
+    {
+        "Gemcode": 1969,
+        "Gemeentenaam": "Westerkwartier",
+        "Waterschap": "Noorderzijlvest",
+        "WaterschapCode": 11
+    },
+    {
+        "Gemcode": 1970,
+        "Gemeentenaam": "Noardeast-Frysl\u00e2n",
+        "Waterschap": "Friesland",
+        "WaterschapCode": 6
+    },
+    {
+        "Gemcode": 1978,
+        "Gemeentenaam": "Molenlanden",
+        "Waterschap": "Rivierenland",
+        "WaterschapCode": 13
+    },
+    {
+        "Gemcode": 1979,
+        "Gemeentenaam": "Eemsdelta",
+        "Waterschap": "Noorderzijlvest",
+        "WaterschapCode": 11
+    },
+    {
+        "Gemcode": 1980,
+        "Gemeentenaam": "Dijk en Waard",
+        "Waterschap": "Hollands Noorderkwartier",
+        "WaterschapCode": 7
+    },
+    {
+        "Gemcode": 1982,
+        "Gemeentenaam": "Land van Cuijk",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 1991,
+        "Gemeentenaam": "Maashorst",
+        "Waterschap": "Aa en Maas",
+        "WaterschapCode": 0
+    },
+    {
+        "Gemcode": 1992,
+        "Gemeentenaam": "Voorne aan Zee",
+        "Waterschap": "Brabantse Delta",
+        "WaterschapCode": 2
+    }
+]
