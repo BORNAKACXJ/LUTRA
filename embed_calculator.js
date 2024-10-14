@@ -2,7 +2,7 @@
     // Create the calculator's HTML structure
     const calculatorHtml = `
         <div class="form-container">
-            <div style="font-size:1.6em; font-weight:bold; padding-bottom:16px">Wat kun je besparen op lozingsheffing?</div>
+            <div style="font-size:1.6em; font-weight:500; padding-bottom:16px">Wat kun je besparen op lozingsheffing?</div>
             <div style="display: none;">
                 <label for="nameField">Uw bedrijfsnaam</label>
                 <input type="text" id="nameField" name="nameField" autocomplete="off">
