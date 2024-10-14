@@ -280,7 +280,7 @@ function searchPostcode(postcode, pollutionUnits) {
 }
 
 function searchWaterschapCode(gemcode, pollutionUnits) {
-    const gemeenteJsonUrl = 'https://raw.githubusercontent.com/BORNAKACXJ/LUTRA/refs/heads/main/gemeente.json;
+    const gemeenteJsonUrl = 'https://raw.githubusercontent.com/BORNAKACXJ/LUTRA/refs/heads/main/gemeente.json';
 
     fetch(gemeenteJsonUrl, {  })
         .then(response => response.json())
