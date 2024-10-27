@@ -9,7 +9,7 @@
             </div>
             <div class="form-group">
                 <label for="pollutionUnits">Hoeveel vervuilingseenheden loos je?</label>
-                <input type="number" id="pollutionUnits" name="pollutionUnits" placeholder="Liters per jaar" inputmode="numeric" required>
+                <input type="number" id="pollutionUnits" name="pollutionUnits" placeholder="v.e. per jaar" inputmode="numeric" required>
             </div>
             <div class="form-group">
                 <label for="postcode">Wat is je postcode?</label>
