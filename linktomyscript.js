@@ -9,7 +9,7 @@
             </div>
             <div class="form-group">
                 <label for="pollutionUnits">Hoeveel vervuilingseenheden loos je?</label>
-                <input type="number" id="pollutionUnits" name="pollutionUnits" placeholder="Liters per jaar" inputmode="numeric" required>
+                <input type="number" id="pollutionUnits" name="pollutionUnits" placeholder="v.e per jaar" inputmode="numeric" required>
             </div>
             <div class="form-group">
                 <label for="postcode">Wat is je postcode?</label>
@@ -31,7 +31,7 @@
             <div id="result">
                 <p>Potenti&euml;le besparingen per jaar:</p>
                 <h2 id="potentialSavings"></h2>
-                <p class="addion">Een flink bedrag. Want met een eigen afvalwaterzuivering bespaar je 70% tot 80% op je huidige heffing. De investering verdien je meestal binnen 3 jaar terug.<br /><br /></p>
+                <p class="addion"></p>
                 <a href="https://www.lutra.nu/contact" target="_blank" class="btn orange">Neem contact met ons op</a>
             </div>
         </div>
@@ -252,7 +252,6 @@
     }, 1000); // Simulated delay for the calculation
 }
 
-
     // Your previous function integrated here
 function searchPostcode(postcode, pollutionUnits) {
     const postcodeJsonUrl = 'https://raw.githubusercontent.com/BORNAKACXJ/LUTRA/refs/heads/main/postcode.json';
@@ -322,6 +321,18 @@ function fetchAndCalculate(waterschapCode, pollutionUnits) {
                     let integerPart = formattedNumber[0].replace(/\B(?=(\d{3})+(?!\d))/g, "."); // Add dots as thousands separator
                     let decimalPart = formattedNumber[1]; // Get the decimal part
 
+                    //potentialSavings
+                    //document.querySelector('.addion').innerHTML = 'Een flink bedrag. Want met een eigen afvalwaterzuivering bespaar je 70% tot 80% op je huidige heffing. De investering verdien je meestal binnen 3 jaar terug.<br /><br />';
+
+                    if (potentialSavings < 40000) {
+                        document.querySelector('.addion').innerHTML = 'Onder de &euro;40.000 is er waarschijnlijk geen netto besparing.<br />Heb je toch vragen?<br /><br />';
+                    } else if (potentialSavings >= 40000 && potentialSavings <= 70000) {
+                        document.querySelector('.addion').innerHTML = 'Tussen de &euro;40.000 en &euro;70.000 kunt u een flinke besparing realiseren.<br /><br />';
+                    } else {
+                        document.querySelector('.addion').innerHTML = 'Een flink bedrag. Want met een eigen afvalwaterzuivering bespaar je 70% tot 80% op je huidige heffing. De investering verdien je meestal binnen 3 jaar terug.<br /><br />';
+                    }
+
+
                     // Insert into HTML with smaller decimals
                     document.getElementById('potentialSavings').innerHTML = `&euro;${integerPart},<span class="small-decimal">${decimalPart}</span>`;
                     document.getElementById('result').style.display = 'block';
@@ -335,6 +346,13 @@ function fetchAndCalculate(waterschapCode, pollutionUnits) {
             console.error('Error fetching CSV data:', error);
         });
 }
+
+const postcodeField = document.getElementById('postcode');
+
+// Automatically convert input to uppercase
+postcodeField.addEventListener('input', function() {
+    postcodeField.value = postcodeField.value.toUpperCase();
+});
 
 
 function sendToIFTTT(postcode, result, pollutionUnits) {
