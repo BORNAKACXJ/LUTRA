@@ -255,29 +255,34 @@
 
     // Your previous function integrated here
 function searchPostcode(postcode, pollutionUnits) {
-    const postcodeJsonUrl = 'https://raw.githubusercontent.com/BORNAKACXJ/LUTRA/refs/heads/main/postcode.json';
-    const gemeenteJsonUrl = 'https://raw.githubusercontent.com/BORNAKACXJ/LUTRA/refs/heads/main/gemeente.json';
-    const csvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-9btR_TTTmlESMcw7mg3EZrUc1thUlf6uDCRYns313GY9HB4HbdW4tvKQLxIteJDGssZ2SM9kx_rC/pub?gid=0&single=true&output=csv';
+    const pdokUrl = `https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=${postcode}&rows=1`;
 
-    // Fetch the gemcode and waterschap details (as explained before)
-    fetch(postcodeJsonUrl, {  })
+    fetch(pdokUrl)
         .then(response => response.json())
         .then(data => {
-            const gemcode = data[postcode];
+            if (data.response.numFound > 0) {
+                const location = data.response.docs[0];
 
-            if (gemcode) {
-                searchWaterschapCode(gemcode, pollutionUnits);
+                if (location.type === "postcode") {
+                    // Remove leading zeros from gemeentecode by converting to an integer
+                    const gemcode = parseInt(location.gemeentecode, 10);
+                    searchWaterschapCode(gemcode, pollutionUnits);
+                } else {
+                    document.querySelector('.calc__alert').style.display = 'block';
+                    document.getElementById('loading').style.display = 'none';
+                }
             } else {
                 document.querySelector('.calc__alert').style.display = 'block';
                 document.getElementById('loading').style.display = 'none';
             }
         })
         .catch(error => {
-            console.error('Error fetching postcode data:', error);
+            console.error('Error fetching postcode data from PDOK API:', error);
             document.querySelector('.calc__alert').style.display = 'block';
             document.getElementById('loading').style.display = 'none';
         });
 }
+
 
 function searchWaterschapCode(gemcode, pollutionUnits) {
     const gemeenteJsonUrl = 'https://raw.githubusercontent.com/BORNAKACXJ/LUTRA/refs/heads/main/gemeente.json';
