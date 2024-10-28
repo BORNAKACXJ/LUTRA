@@ -290,7 +290,8 @@ function searchWaterschapCode(gemcode, pollutionUnits) {
             if (gemeente && gemeente.WaterschapCode) {
                 fetchAndCalculate(gemeente.WaterschapCode, pollutionUnits);
             } else {
-                alert('No matching WaterschapCode found.');
+                //alert('No matching WaterschapCode found.');
+                
             }
         })
         .catch(error => {
