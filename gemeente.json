@@ -1167,7 +1167,7 @@
         "Gemcode": 755,
         "Gemeentenaam": "Boekel",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 757,
@@ -1185,7 +1185,7 @@
         "Gemcode": 762,
         "Gemeentenaam": "Deurne",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 765,
@@ -1239,19 +1239,19 @@
         "Gemcode": 794,
         "Gemeentenaam": "Helmond",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 796,
         "Gemeentenaam": "'s-Hertogenbosch",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 797,
         "Gemeentenaam": "Heusden",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 798,
@@ -1287,7 +1287,7 @@
         "Gemcode": 828,
         "Gemeentenaam": "Oss",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 840,
@@ -1305,7 +1305,7 @@
         "Gemcode": 847,
         "Gemeentenaam": "Someren",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 848,
@@ -1449,7 +1449,7 @@
         "Gemcode": 946,
         "Gemeentenaam": "Nederweert",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 957,
@@ -1497,7 +1497,7 @@
         "Gemcode": 988,
         "Gemeentenaam": "Weert",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 994,
@@ -1569,7 +1569,7 @@
         "Gemcode": 1652,
         "Gemeentenaam": "Gemert-Bakel",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 1655,
@@ -1587,7 +1587,7 @@
         "Gemcode": 1659,
         "Gemeentenaam": "Laarbeek",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 1667,
@@ -1707,7 +1707,7 @@
         "Gemcode": 1721,
         "Gemeentenaam": "Bernheze",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 1723,
@@ -1935,7 +1935,7 @@
         "Gemcode": 1948,
         "Gemeentenaam": "Meierijstad",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 1949,
@@ -2031,13 +2031,13 @@
         "Gemcode": 1982,
         "Gemeentenaam": "Land van Cuijk",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 1991,
         "Gemeentenaam": "Maashorst",
         "Waterschap": "Aa en Maas",
-        "WaterschapCode": 0
+        "WaterschapCode": 30
     },
     {
         "Gemcode": 1992,
